@@ -1,0 +1,55 @@
+.page{
+    width: 1000px;
+    height: 600px;
+    margin: 100px;
+    background: #101317;
+    box-shadow: 2px 3px 42px rgba(0, 0, 0, 0.5);
+    border-radius: 16px;
+    color: azure;
+    justify-content:center;
+    border:0;
+}
+
+.heading{
+    background: #101317;
+    display:flex;
+    color: azure;
+    flex-direction: row;
+    justify-items: flex-end;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin-top: 40px;
+    border-radius: 16px;
+}
+
+.steps h1{
+    background: #101317;
+    padding:0;
+    margin:0;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-right: 70px;
+}
+
+.nutrition h1{
+    background: #101317;
+    padding:0;
+    margin:0;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-right: 220px;
+}
+
+.workout h1{
+    background: #101317;
+    padding:0;
+    margin:0;
+    margin-top: 40px;
+    align-items: center;
+    font-size: 20px;
+    margin-right: 95px;
+}
+
+.myreact-icons { 
+    background-color: #101317;
+  }
