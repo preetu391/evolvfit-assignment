@@ -1,6 +1,6 @@
-## Deploy-link: https://evolvfit-assignment.netlify.app/
+### Deploy-link: https://evolvfit-assignment.netlify.app/
 
-## I have tried to create the design and functionalities as per Evolv Frontend Challenge as near as possible within the stipulated time.
+#### I have tried to create the design and functionalities as per Evolv Frontend Challenge as near as possible within the stipulated time.
 
 
 
